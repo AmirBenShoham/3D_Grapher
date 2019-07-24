@@ -1,0 +1,10 @@
+C:\c#\Grapher\Grapher\bin\Debug\Grapher.exe.config
+C:\c#\Grapher\Grapher\bin\Debug\Grapher.exe
+C:\c#\Grapher\Grapher\bin\Debug\Grapher.pdb
+C:\c#\Grapher\Grapher\obj\Debug\Grapher.csprojResolveAssemblyReference.cache
+C:\c#\Grapher\Grapher\obj\Debug\Grapher.Form1.resources
+C:\c#\Grapher\Grapher\obj\Debug\Grapher.Properties.Resources.resources
+C:\c#\Grapher\Grapher\obj\Debug\Grapher.csproj.GenerateResource.Cache
+C:\c#\Grapher\Grapher\obj\Debug\Grapher.csproj.CoreCompileInputs.cache
+C:\c#\Grapher\Grapher\obj\Debug\Grapher.exe
+C:\c#\Grapher\Grapher\obj\Debug\Grapher.pdb
